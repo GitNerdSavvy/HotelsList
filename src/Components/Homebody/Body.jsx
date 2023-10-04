@@ -6,6 +6,7 @@ import {CiLocationOn} from "react-icons/ci"
 import {HiOutlineHome} from "react-icons/hi"
 import {BiBed,BiBath} from "react-icons/bi"
 import {BsArrowsMove} from "react-icons/bs"
+import { Link } from "react-router-dom";
 const Body = () => {
   return (
     <div className="item-container">
@@ -23,7 +24,7 @@ const Body = () => {
             </div>
            
           </div>
-          <div className="m-2">
+          <div className="m-3">
             <span><CiLocationOn/>{hotel.hotelLocation}</span>
             <h2 ><b>{hotel.hotelName}</b></h2>
             <div className="d-flex flex-row justify-content-around">
@@ -37,10 +38,12 @@ const Body = () => {
             <hr />
             <div className="d-flex justify-content-around align-items-center">
               <div className="price"><b>{hotel.price}</b>/month</div>
-              <button className="btn btn-light text-bold colour-blue">
-
-                Read More
-              </button>
+              <Link to={`${hotel.hotelName}`}>
+                {" "}
+                <button className="btn btn-light text-bold colour-blue">
+                  Read More
+                </button>
+              </Link>
             </div>
             
             </div>

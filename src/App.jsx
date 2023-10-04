@@ -7,6 +7,7 @@ import London from './Pages/London'
 import Mumbai from './Pages/Mumbai'
 import Paris from './Pages/Paris'
 import NewY from './Pages/NewYork'
+import HotelDetails from './Pages/HotelDetails';
 function App() {
   
   return (
@@ -17,6 +18,7 @@ function App() {
     <Route path='/Mumbai' element={<Mumbai/>}></Route>
     <Route path='/Paris' element={<Paris/>}></Route>
     <Route path='/NewY' element={<NewY/>}></Route>
+    <Route path='/:hotelName' element={<HotelDetails/>}></Route>
    </Routes >
   )
 }
