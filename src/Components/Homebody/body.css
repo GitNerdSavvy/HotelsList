@@ -1,0 +1,44 @@
+.item-container {
+  margin: 10px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  border-radius: 5px;
+  
+}
+
+.upper {
+  width: 450px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 20px;
+  border-color: grey;
+  background-color: white;
+}
+.image-container {
+display: flex;
+align-items: center;
+justify-content: center;
+position: relative;
+
+width: 450px;  
+}
+.image-container img{
+  margin-top: 10px;
+  height: 250px;
+  width: 430px;
+  border-radius: 20px;
+}
+.banner{
+  position: relative;
+}
+
+.status {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  align-items: center;
+  gap: 250px;
+  position: absolute;
+ margin-top: -180px;
+}

@@ -1,0 +1,76 @@
+{
+  "hotels": [
+    {
+      "hotelName": "New York Grand",
+      "hotelLocation": "New York",
+      "numberOfRooms": 70,
+      "numberOfBeds": 140,
+      "numberOfBathrooms": 70,
+      "areaOfRoom": "650 sft",
+      "price": "$280",
+      "image": "https://images.unsplash.com/photo-1562070662-218717e45067",
+      "status": "Available",
+      "like": true
+    },
+    {
+      "hotelName": "Central Park View",
+      "hotelLocation": "New York",
+      "numberOfRooms": 60,
+      "numberOfBeds": 120,
+      "numberOfBathrooms": 60,
+      "areaOfRoom": "600 sft",
+      "price": "$250",
+      "image": "https://images.unsplash.com/photo-1559957792-6b2b40b21e11",
+      "status": "Available",
+      "like": false
+    },
+    {
+      "hotelName": "Times Square Towers",
+      "hotelLocation": "New York",
+      "numberOfRooms": 80,
+      "numberOfBeds": 160,
+      "numberOfBathrooms": 80,
+      "areaOfRoom": "700 sft",
+      "price": "$300",
+      "image": "https://images.unsplash.com/photo-1591048782450-0ad3a85d8e38",
+      "status": "Available",
+      "like": true
+    },
+    {
+      "hotelName": "Empire State Luxe",
+      "hotelLocation": "New York",
+      "numberOfRooms": 65,
+      "numberOfBeds": 130,
+      "numberOfBathrooms": 65,
+      "areaOfRoom": "620 sft",
+      "price": "$270",
+      "image": "https://images.unsplash.com/photo-1575856912613-6dbddb220c4e",
+      "status": "Available",
+      "like": true
+    },
+    {
+      "hotelName": "Brooklyn Heights Inn",
+      "hotelLocation": "New York",
+      "numberOfRooms": 55,
+      "numberOfBeds": 110,
+      "numberOfBathrooms": 55,
+      "areaOfRoom": "580 sft",
+      "price": "$230",
+      "image": "https://images.unsplash.com/photo-1597435847319-3ebc756efed3",
+      "status": "Available",
+      "like": false
+    },
+    {
+      "hotelName": "Chinatown Charm",
+      "hotelLocation": "New York",
+      "numberOfRooms": 45,
+      "numberOfBeds": 90,
+      "numberOfBathrooms": 45,
+      "areaOfRoom": "550 sft",
+      "price": "$210",
+      "image": "https://images.unsplash.com/photo-1575856932610-5074cbf5a45f",
+      "status": "Available",
+      "like": false
+    }
+  ]
+}

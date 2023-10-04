@@ -1,0 +1,76 @@
+{
+  "hotels": [
+    {
+      "hotelName": "Luxury Inn",
+      "hotelLocation": "London",
+      "numberOfRooms": 40,
+      "numberOfBeds": 80,
+      "numberOfBathrooms": 40,
+      "areaOfRoom": "550 sq ft",
+      "price": "$200",
+      "image": "https://images.unsplash.com/photo-1485095329183-d0797cdc5676?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmNlJTIwdGhlYXR1cmVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "status": "Available",
+      "like": true
+    },
+    {
+      "hotelName": "The Royal",
+      "hotelLocation": "London",
+      "numberOfRooms": 35,
+      "numberOfBeds": 70,
+      "numberOfBathrooms": 35,
+      "areaOfRoom": "500 sq ft",
+      "price": "$180",
+      "image": "https://images.unsplash.com/photo-1485095329183-d0797cdc5676?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmNlJTIwdGhlYXR1cmVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "status": "Available",
+      "like": false
+    },
+    {
+      "hotelName": "Cityscape Hotel",
+      "hotelLocation": "London",
+      "numberOfRooms": 45,
+      "numberOfBeds": 90,
+      "numberOfBathrooms": 45,
+      "areaOfRoom": "600 sq ft",
+      "price": "$250",
+      "image": "https://images.unsplash.com/photo-1485095329183-d0797cdc5676?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmNlJTIwdGhlYXR1cmVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "status": "Available",
+      "like": true
+    },
+    {
+      "hotelName": "Riverside Suites",
+      "hotelLocation": "London",
+      "numberOfRooms": 25,
+      "numberOfBeds": 50,
+      "numberOfBathrooms": 25,
+      "areaOfRoom": "480 sq ft",
+      "price": "$190",
+      "image": "https://images.unsplash.com/photo-1485095329183-d0797cdc5676?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmNlJTIwdGhlYXR1cmVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "status": "Available",
+      "like": true
+    },
+    {
+      "hotelName": "Metropolitan Suites",
+      "hotelLocation": "London",
+      "numberOfRooms": 30,
+      "numberOfBeds": 60,
+      "numberOfBathrooms": 30,
+      "areaOfRoom": "550 sq ft",
+      "price": "$220",
+      "image": "https://images.unsplash.com/photo-1485095329183-d0797cdc5676?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmNlJTIwdGhlYXR1cmVzfGVufDB8fDB8fHww&auto=format& fit=crop&w=500&q=60",
+      "status": "Available",
+      "like": false
+    },
+    {
+      "hotelName": "Arctic Suites",
+      "hotelLocation": "London",
+      "numberOfRooms": 30,
+      "numberOfBeds": 60,
+      "numberOfBathrooms": 30,
+      "areaOfRoom": "550 sq ft",
+      "price": "$220",
+      "image": "https://images.unsplash.com/photo-1485095329183-d0797cdc5676?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmNlJTIwdGhlYXR1cmVzfGVufDB8fDB8fHww&auto=format& fit=crop&w=500&q=60",
+      "status": "Rent",
+      "like": false
+    }
+  ]
+}

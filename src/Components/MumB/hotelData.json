@@ -1,0 +1,88 @@
+{
+  "hotels": [
+    {
+      "hotelName": "Mumbai Marriot",
+      "hotelLocation": "Mumbai",
+      "numberOfRooms": 60,
+      "numberOfBeds": 120,
+      "numberOfBathrooms": 60,
+      "areaOfRoom": "600 sft",
+      "price": "₹250",
+      "image": "https://images.unsplash.com/photo-1562070662-218717e45067",
+      "status": "Available",
+      "like": true
+    },
+    {
+      "hotelName": "Ocean View Residency",
+      "hotelLocation": "Mumbai",
+      "numberOfRooms": 45,
+      "numberOfBeds": 90,
+      "numberOfBathrooms": 45,
+      "areaOfRoom": "550 sft",
+      "price": "₹220",
+      "image": "https://images.unsplash.com/photo-1559957792-6b2b40b21e11",
+      "status": "Available",
+      "like": false
+    },
+    {
+      "hotelName": "Gateway Grand",
+      "hotelLocation": "Mumbai",
+      "numberOfRooms": 70,
+      "numberOfBeds": 140,
+      "numberOfBathrooms": 70,
+      "areaOfRoom": "650 sft",
+      "price": "₹280",
+      "image": "https://images.unsplash.com/photo-1591048782450-0ad3a85d8e38",
+      "status": "Available",
+      "like": true
+    },
+    {
+      "hotelName": "Palm Beach Hotel",
+      "hotelLocation": "Mumbai",
+      "numberOfRooms": 50,
+      "numberOfBeds": 100,
+      "numberOfBathrooms": 50,
+      "areaOfRoom": "500 sft",
+      "price": "₹200",
+      "image": "https://images.unsplash.com/photo-1575856912613-6dbddb220c4e",
+      "status": "Available",
+      "like": true
+    },
+    {
+      "hotelName": "Sunrise Residency",
+      "hotelLocation": "Mumbai",
+      "numberOfRooms": 40,
+      "numberOfBeds": 80,
+      "numberOfBathrooms": 40,
+      "areaOfRoom": "450 sft",
+      "price": "₹180",
+      "image": "https://images.unsplash.com/photo-1597435847319-3ebc756efed3",
+      "status": "Available",
+      "like": false
+    },
+    {
+      "hotelName": "Seaside Suites",
+      "hotelLocation": "Mumbai",
+      "numberOfRooms": 55,
+      "numberOfBeds": 110,
+      "numberOfBathrooms": 55,
+      "areaOfRoom": "580 sft",
+      "price": "₹240",
+      "image": "https://images.unsplash.com/photo-1575856932610-5074cbf5a45f",
+      "status": "Available",
+      "like": false
+    },
+    {
+      "hotelName": "Seaside Suites",
+      "hotelLocation": "Mumbai",
+      "numberOfRooms": 55,
+      "numberOfBeds": 110,
+      "numberOfBathrooms": 55,
+      "areaOfRoom": "580 sft",
+      "price": "₹240",
+      "image": "https://images.unsplash.com/photo-1575856932610-5074cbf5a45f",
+      "status": "Available",
+      "like": false
+    }
+  ]
+}

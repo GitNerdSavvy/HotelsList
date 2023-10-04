@@ -1,0 +1,147 @@
+{
+    "hotels": [
+      {
+        "hotelName": "Luxury Inn",
+        "hotelLocation": "New York",
+        "numberOfRooms": 50,
+        "numberOfBeds": 100,
+        "numberOfBathrooms": 50,
+        "areaOfRoom": "500 sq ft",
+        "price": "$200",
+        "image": "https://images.unsplash.com/photo-1485095329183-d0797cdc5676?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmNlJTIwdGhlYXR1cmVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "status": "Available",
+        "like": true
+      },
+      {
+        "hotelName": "Sunset Resort",
+        "hotelLocation": "Los Angeles",
+        "numberOfRooms": 30,
+        "numberOfBeds": 70,
+        "numberOfBathrooms": 30,
+        "areaOfRoom": "450 sq ft",
+        "price": "$200",
+        "image": "https://images.unsplash.com/photo-1485095329183-d0797cdc5676?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmNlJTIwdGhlYXR1cmVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+
+        "status": "Available",
+        "like": false
+      },
+      {
+        "hotelName": "Grand Plaza",
+        "hotelLocation": "Chicago",
+        "numberOfRooms": 40,
+        "numberOfBeds": 80,
+        "numberOfBathrooms": 40,
+        "areaOfRoom": "550 sq ft",
+        "price": "$200",
+        "status": "Available",
+        "image": "https://images.unsplash.com/photo-1485095329183-d0797cdc5676?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmNlJTIwdGhlYXR1cmVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+
+        "like": true
+      },
+      {
+        "hotelName": "RCE Theatres",
+        "hotelLocation": "North Carolina",
+        "numberOfRooms": 20,
+        "numberOfBeds": 40,
+        "numberOfBathrooms": 20,
+        "areaOfRoom": "400 sq ft",
+        "price": "$200",
+        "image": "https://images.unsplash.com/photo-1485095329183-d0797cdc5676?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmNlJTIwdGhlYXR1cmVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+
+        "status": "Available",
+        "like": false
+      },
+      {
+        "hotelName": "Costco Wholesale",
+        "hotelLocation": "South Carolina",
+        "numberOfRooms": 25,
+        "numberOfBeds": 50,
+        "numberOfBathrooms": 25,
+        "areaOfRoom": "420 sq ft",
+        "price": "$100",
+        "image": "https://images.unsplash.com/photo-1485095329183-d0797cdc5676?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmNlJTIwdGhlYXR1cmVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+
+        "status": "Available",
+        "like": true
+      },
+      {
+        "hotelName": "Regal North Hills",
+        "hotelLocation": "Raleigh",
+        "numberOfRooms": 35,
+        "numberOfBeds": 60,
+        "numberOfBathrooms": 35,
+        "areaOfRoom": "480 sq ft",
+        "price": "$250",
+        "image": "https://images.unsplash.com/photo-1485095329183-d0797cdc5676?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmNlJTIwdGhlYXR1cmVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+
+        "status": "Available",
+        "like": true
+      },
+      {
+        "hotelName": "Spring Lana Cinema",
+        "hotelLocation": "North Carolina",
+        "numberOfRooms": 18,
+        "numberOfBeds": 36,
+        "numberOfBathrooms": 18,
+        "areaOfRoom": "380 sq ft",
+        "price": "$140",
+        "image": "https://images.unsplash.com/photo-1485095329183-d0797cdc5676?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmNlJTIwdGhlYXR1cmVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+
+        "status": "Available",
+        "like": false
+      },
+      {
+        "hotelName": "Dollar General",
+        "hotelLocation": "North Carolina",
+        "numberOfRooms": 22,
+        "numberOfBeds": 44,
+        "numberOfBathrooms": 22,
+        "areaOfRoom": "410 sq ft",
+        "price": "$150",
+        "image": "https://images.unsplash.com/photo-1485095329183-d0797cdc5676?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmNlJTIwdGhlYXR1cmVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+
+        "status": "Available",
+        "like": false
+      },
+      {
+        "hotelName": "Mumbai Marvel",
+        "hotelLocation": "Mumbai",
+        "numberOfRooms": 60,
+        "numberOfBeds": 120,
+        "numberOfBathrooms": 60,
+        "areaOfRoom": "600 sq ft",
+        "price": "₹12,000",
+        "image": "https://images.unsplash.com/photo-1485095329183-d0797cdc5676?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmNlJTIwdGhlYXR1cmVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+
+        "status": "Available",
+        "like": true
+      },
+      {
+        "hotelName": "Paris Palace",
+        "hotelLocation": "Paris",
+        "numberOfRooms": 55,
+        "numberOfBeds": 110,
+        "numberOfBathrooms": 55,
+        "areaOfRoom": "550 sq ft",
+        "price": "€150",
+        "image": "https://images.unsplash.com/photo-1485095329183-d0797cdc5676?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmNlJTIwdGhlYXR1cmVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+
+        "status": "Available",
+        "like": false
+      },
+      {
+        "hotelName": "London Luxury",
+        "hotelLocation": "London",
+        "numberOfRooms": 70,
+        "numberOfBeds": 140,
+        "numberOfBathrooms": 70,
+        "areaOfRoom": "700 sq ft",
+        "price": "£200",
+        "image": "https://images.unsplash.com/photo-1485095329183-d0797cdc5676?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmNlJTIwdGhlYXR1cmVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+
+        "status": "Available",
+        "like": true
+      }
+    ]
+  }
+  
